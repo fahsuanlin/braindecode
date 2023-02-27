@@ -1,5 +1,5 @@
 # braindecode: decoding the brain signals
-a
+
 This project aims at "decode" brain signals recorded by either non-invasive or invasive human brain imaging tools, including MRI, EEG, and stereo-EEG, to estimate the audio-visual inputs to the invidividual. 
 
 
@@ -11,7 +11,7 @@ This project aims at "decode" brain signals recorded by either non-invasive or i
 
 ## Data
 
-Refer to our [SEEG data]() recorded during music playing
+Refer to our [SEEG data](https://github.com/fahsuanlin/labmanual/wiki/32:-Sample-data:-SEEG-recording-during-music-listening) recorded during music playing
 
 ## Code
 
