@@ -3,7 +3,7 @@
 This project aims at "decode" brain signals recorded by either non-invasive or invasive human brain imaging tools, including MRI, EEG, and stereo-EEG, to estimate the audio-visual inputs to the invidividual. 
 
 
-![](https://github.com/fahsuanlin/braindecode/blob/main/images/braindecode.png)
+![](https://github.com/fahsuanlin/braindecode/blob/main/images/music_seeg_annot.png)
 
 ## Goal
 
