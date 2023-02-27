@@ -1,5 +1,5 @@
 # braindecode: decoding the brain signals
-
+a
 This project aims at "decode" brain signals recorded by either non-invasive or invasive human brain imaging tools, including MRI, EEG, and stereo-EEG, to estimate the audio-visual inputs to the invidividual. 
 
 
